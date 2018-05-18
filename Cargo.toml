@@ -1,0 +1,7 @@
+[package]
+name = "cellular_tests"
+version = "0.1.0"
+authors = ["muvlon <muvlon@hentzes.de>"]
+
+[dependencies]
+cellular_traits = { git = "https://github.com/whentze/cellular_traits" }
